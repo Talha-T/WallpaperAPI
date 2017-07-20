@@ -1,0 +1,10 @@
+c:\users\seher\onedrive\belgeler\visual studio 2017\Projects\WallpapersApi\TalhaT.TestProject\bin\Debug\TalhaT.TestProject.exe.config
+c:\users\seher\onedrive\belgeler\visual studio 2017\Projects\WallpapersApi\TalhaT.TestProject\bin\Debug\TalhaT.TestProject.exe
+c:\users\seher\onedrive\belgeler\visual studio 2017\Projects\WallpapersApi\TalhaT.TestProject\bin\Debug\TalhaT.TestProject.pdb
+c:\users\seher\onedrive\belgeler\visual studio 2017\Projects\WallpapersApi\TalhaT.TestProject\bin\Debug\TalhaT.WallpapersApi.dll
+c:\users\seher\onedrive\belgeler\visual studio 2017\Projects\WallpapersApi\TalhaT.TestProject\bin\Debug\Newtonsoft.Json.dll
+c:\users\seher\onedrive\belgeler\visual studio 2017\Projects\WallpapersApi\TalhaT.TestProject\bin\Debug\TalhaT.WallpapersApi.pdb
+c:\users\seher\onedrive\belgeler\visual studio 2017\Projects\WallpapersApi\TalhaT.TestProject\bin\Debug\Newtonsoft.Json.xml
+c:\users\seher\onedrive\belgeler\visual studio 2017\Projects\WallpapersApi\TalhaT.TestProject\obj\Debug\TalhaT.TestProject.csprojResolveAssemblyReference.cache
+c:\users\seher\onedrive\belgeler\visual studio 2017\Projects\WallpapersApi\TalhaT.TestProject\obj\Debug\TalhaT.TestProject.exe
+c:\users\seher\onedrive\belgeler\visual studio 2017\Projects\WallpapersApi\TalhaT.TestProject\obj\Debug\TalhaT.TestProject.pdb
