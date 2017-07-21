@@ -24,7 +24,7 @@ namespace TalhaT.WallpapersApi
         private const string ArtistsUrl = "/artists";
         private const string ArtistDetailUrl = "/{0}";
 
-        private const string CommentsUrl = "/Comments";
+        private const string CommentsUrl = "/comments";
         private const string CommentDetailUrl = "/{0}";
 
         private static bool _secure = true;

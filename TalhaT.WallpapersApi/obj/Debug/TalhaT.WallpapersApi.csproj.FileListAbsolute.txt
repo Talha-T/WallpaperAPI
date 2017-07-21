@@ -1,9 +1,7 @@
 c:\users\seher\onedrive\belgeler\visual studio 2017\Projects\WallpapersApi\TalhaT.WallpapersApi\bin\Debug\TalhaT.WallpapersApi.dll
 c:\users\seher\onedrive\belgeler\visual studio 2017\Projects\WallpapersApi\TalhaT.WallpapersApi\bin\Debug\TalhaT.WallpapersApi.pdb
 c:\users\seher\onedrive\belgeler\visual studio 2017\Projects\WallpapersApi\TalhaT.WallpapersApi\bin\Debug\Newtonsoft.Json.dll
-c:\users\seher\onedrive\belgeler\visual studio 2017\Projects\WallpapersApi\TalhaT.WallpapersApi\bin\Debug\System.ValueTuple.dll
 c:\users\seher\onedrive\belgeler\visual studio 2017\Projects\WallpapersApi\TalhaT.WallpapersApi\bin\Debug\Newtonsoft.Json.xml
-c:\users\seher\onedrive\belgeler\visual studio 2017\Projects\WallpapersApi\TalhaT.WallpapersApi\bin\Debug\System.ValueTuple.xml
 c:\users\seher\onedrive\belgeler\visual studio 2017\Projects\WallpapersApi\TalhaT.WallpapersApi\obj\Debug\TalhaT.WallpapersApi.csprojResolveAssemblyReference.cache
 c:\users\seher\onedrive\belgeler\visual studio 2017\Projects\WallpapersApi\TalhaT.WallpapersApi\obj\Debug\TalhaT.WallpapersApi.dll
 c:\users\seher\onedrive\belgeler\visual studio 2017\Projects\WallpapersApi\TalhaT.WallpapersApi\obj\Debug\TalhaT.WallpapersApi.pdb
