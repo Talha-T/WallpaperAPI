@@ -8,7 +8,9 @@ Powered by [LoL Wallpapers API](http://docs.lolwallpapers.apiary.io)
 
 ## Usage
 
-Add using tag after install:
+Download libraries under `/libs` folder and add reference to your project.
+
+Add using tag after referencing:
 ```csharp
 using TalhaT.WallpapersApi;
 ```
